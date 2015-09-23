@@ -2,7 +2,7 @@
 
 Yet another [mysql](https://www.npmjs.com/package/mysql) wrapper using promises.
 
-## Why yet another?
+### Why yet another?
 
 Because every wrappers I found do things that I don't want:
 
