@@ -7,7 +7,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mvila/mysql-as-promised"
+    "url": "git://github.com/object-layer/mysql-as-promised"
   },
   "scripts": {
     "compile": "babel src --out-dir lib",

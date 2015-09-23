@@ -1,4 +1,4 @@
-# mysql-as-promised [![Build Status](https://travis-ci.org/mvila/mysql-as-promised.svg?branch=master)](https://travis-ci.org/mvila/mysql-as-promised)
+# mysql-as-promised [![Build Status](https://travis-ci.org/object-layer/mysql-as-promised.svg?branch=master)](https://travis-ci.org/object-layer/mysql-as-promised)
 
 Yet another [mysql](https://www.npmjs.com/package/mysql) wrapper using promises.
 
