@@ -1,6 +1,6 @@
 {
   "name": "mysql-as-promised",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yet another mysql wrapper using promises",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
