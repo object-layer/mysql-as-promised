@@ -1,6 +1,6 @@
 'use strict';
 
-let mysql = require('mysql');
+import mysql from 'mysql';
 
 export let mysqlAsPromised = {
   createPool(options) {
