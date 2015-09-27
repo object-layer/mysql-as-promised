@@ -4,9 +4,9 @@ Yet another [mysql](https://www.npmjs.com/package/mysql) wrapper using promises.
 
 ### Why yet another?
 
-Because every wrappers I found do things that I don't want:
+Because every wrapper I found do things that I don't want:
 
-- I don't want a dependency with a promise library (or  [native-or-bluebird](https://www.npmjs.com/package/native-or-bluebird)). ES6 is there now, and if it isn't, there are [polyfills](https://www.npmjs.com/package/core-js).
+- I don't want a dependency on a promise library (or  [native-or-bluebird](https://www.npmjs.com/package/native-or-bluebird)). ES6 is there now, and if it isn't, there are [polyfills](https://www.npmjs.com/package/core-js).
 - I don't want a different API than the original [mysql](https://www.npmjs.com/package/mysql) module. I just want the same API with promises.
 
 ## Installation
