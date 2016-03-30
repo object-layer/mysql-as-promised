@@ -1,6 +1,6 @@
 {
   "name": "mysql-as-promised",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Yet another mysql wrapper using promises",
   "keyword": [
     "mysql",
